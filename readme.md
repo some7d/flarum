@@ -1,6 +1,6 @@
 ![Flarum](http://flarum.org/img/logo.png)
 
-**[Flarum](http://flarum.org) is free, open-source forum software with a focus on simplicity.** You can use Flarum to easily set up a discussion forum for your website.
+**[Flarum](http://flarum.org)是一款免费开源的论坛程序，追求简洁，崇尚优雅。** You can use Flarum to easily set up a discussion forum for your website.
 
 [Features](http://flarum.org/features) -
 [Download](http://flarum.org/download) -
