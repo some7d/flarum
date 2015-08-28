@@ -1,15 +1,15 @@
 ![Flarum](http://flarum.org/img/logo.png)
 
-**[Flarum](http://flarum.org)是一款免费开源的论坛程序，追求简洁，崇尚优雅。** You can use Flarum to easily set up a discussion forum for your website.
+**[Flarum](http://flarum.org)是一款免费开源的论坛程序，追求简洁，崇尚优雅。** 你可以很轻松地创建一个讨论版。
 
-[Features](http://flarum.org/features) -
-[Download](http://flarum.org/download) -
-[Documentation](http://flarum.org/docs) -
-[Community](http://discuss.flarum.org) -
-[Gitter Chat](https://gitter.im/flarum/flarum) -
-[Twitter](http://twitter.com/flarum) -
-[Contact](mailto:toby@flarum.org) -
-[Donate](http://flarum.org/donate)
+[功能](http://flarum.org/features) -
+[下载](http://flarum.org/download) -
+[文档](http://flarum.org/docs) -
+[社区](http://discuss.flarum.org) -
+[聊天](https://gitter.im/flarum/flarum) -
+[推特](http://twitter.com/flarum) -
+[联系](mailto:toby@flarum.org) -
+[捐助](http://flarum.org/donate)
 
 ![screenshot](http://flarum.org/img/screenshot.png)
 
